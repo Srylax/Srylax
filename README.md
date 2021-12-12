@@ -6,13 +6,13 @@
 - loves Docker
 - Arch <3 with swaywm User
 
-To lazy to Write about me so here's one generated with Codex OpenAI:  
+Too lazy to write about me, so here's one generated with Codex OpenAI:  
 
 About Me:  
 I love to do my own projects, especially in the field of programming and development. // obviously ??  
 My main focus is on Java, but I'm also interested in C / C++ and Python. // yes especially c/c++  
 My hobbies are: Programming (especially Java), Video Games and Sports (Badminton). // wtf  
-I also like to play with my RaspberryPi's, watch movies and listen to music on Spotify. // are you spying on me elon?  
+I also like to play with my RaspberryPi's, watch movies and listen to music on Spotify. // are you spying on me, elon?  
 
 Links: 
 - https://github.com/Srylax // yes  
